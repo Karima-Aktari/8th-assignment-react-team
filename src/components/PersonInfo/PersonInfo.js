@@ -14,8 +14,7 @@ const PersonInfo = (props) => {
             <h2>Total: {total} </h2>
             <ol>
                 {
-                    info.map(person => <li>
-                        key={person.key}
+                    info.map(person => <li key={person.key}>
                         {person.name}</li>)
                 }
             </ol>
