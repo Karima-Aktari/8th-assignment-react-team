@@ -3,12 +3,10 @@
 
 Our Restaurant will be open soon [Sufficient information](https://epic-banach-0ba153.netlify.app/).
 
-## *Healthy food
+## * Total budget
 
-## * Cheap rate
+## * Employee information
 
-## * Healthy environment
+## * Cooking staff
 
-## * Standard quality service
-
-## * Hospitable
+## * Communication processes
