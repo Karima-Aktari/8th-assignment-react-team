@@ -70,12 +70,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
 
 
-#Team of a restaurant
+# Team of a restaurant
 
 Our Restaurant will be open soon [Sufficient information](https://web.programming-hero.com/).
 
-##* Healthy food
-##* Cheap rate
-##* Healthy environment
-##* Standard quality service
-##* Hospitable
+## * Healthy food
+
+## * Cheap rate
+
+## * Healthy environment
+
+## * Standard quality service
+
+## * Hospitable
