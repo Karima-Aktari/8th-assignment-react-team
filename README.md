@@ -1,7 +1,7 @@
 
 # Team of a restaurant
 
-Our Restaurant will be open soon [Sufficient information](https://web.programming-hero.com/).
+Our Restaurant will be open soon [Sufficient information](https://epic-banach-0ba153.netlify.app/).
 
 ## *Healthy food
 
