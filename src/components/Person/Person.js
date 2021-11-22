@@ -2,6 +2,7 @@ import React from 'react';
 import './Person.css';
 
 const Person = (props) => {
+    // destructuring data
     const { name, img, Age, Education, Salary, purpose } = props.person;
 
     return (
