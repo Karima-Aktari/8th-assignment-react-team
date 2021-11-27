@@ -7,6 +7,6 @@ Our Restaurant will be open soon [Sufficient information](https://epic-banach-0b
 
 ### * Employee information
 
-###* Cooking staff
+### * Cooking staff
 
 ### * Communication processes
