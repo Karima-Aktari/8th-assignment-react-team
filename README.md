@@ -3,10 +3,10 @@
 
 Our Restaurant will be open soon [Sufficient information](https://epic-banach-0ba153.netlify.app/).
 
-## * Total budget
+### * Total budget
 
-## * Employee information
+### * Employee information
 
-## * Cooking staff
+###* Cooking staff
 
-## * Communication processes
+### * Communication processes
